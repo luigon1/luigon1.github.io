@@ -1,11 +1,11 @@
 # Site settings
 author: Luis Gonzalez
-title: 
+title: My Software Engineering Journey 
 header-img: img/home-bg.png
 email: luisagonzalez1992@icloud.com
 copyright_name: Luis Gonzalez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Software engineering 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  luigon1
